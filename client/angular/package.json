@@ -24,7 +24,7 @@
         "angular": "^1.7.9",
         "angular-aria": "1.7.8",
         "angular-sanitize": "1.7.9",
-        "angular-translate": "2.18.1",
+        "angular-translate": "2.19.0",
         "core-js": "3.5.0",
         "textangular": "1.5.16"
     },
