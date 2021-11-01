@@ -17,7 +17,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@microfocus/ias-icons": "1.0.4",
+        "@microfocus/ias-icons": "1.0.36",
         "@microfocus/ng-ias": "1.0.1",
         "@microfocus/ux-ias": "1.1.2",
         "@uirouter/angularjs": "1.0.15",
